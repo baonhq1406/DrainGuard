@@ -1,0 +1,8 @@
+path: /home/bao/VKU/hoc_ky_5/DrainGuard-AI/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: debris
+
