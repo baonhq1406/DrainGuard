@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['debris', 'drain']
+
+roboflow:
+  workspace: nguyen-tam-huy-hoang
+  project: drain-detection
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/nguyen-tam-huy-hoang/drain-detection/dataset/3
